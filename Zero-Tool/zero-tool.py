@@ -8,22 +8,25 @@ print(Fore.MAGENTA+"""
 |  _ \ / ___|  / _ \ | \ | | |_   _/ _ \ |  _ \
 | |_) | |     | | | ||  \| |   | || | | || |_) |
 |  _ <| |___  | |_| || |\  |   | || |_| ||  __/
-|_| \_\\____|  \___/ |_| \_|   |_| \___/ |_|
+|_| \_\\____| \ ___ /|_| \_|   |_| \___/ |_|                Developer - Rc
                                                                                                                    
 ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
                                                                  
-BY: Rc Comeback !
+BY: Rc ! 
 """)
 
 def display_menu():
-    print(Fore.YELLOW + """
+    print(Fore.RED + """
     ―――――――――――――――――――――――――――――――――――――――――――――――――――――――
-    1. Ip Fucker                    | 7. Sub-Domain-Scanner      
-    2. Discord Nuke                 | 8. Mass Banning
-    3. Scan Destroyer               | 9. Token-Grabber
-    4. Email-Boomber                | 10. Keylogger 
-    5. Location Leaker              | 11. Web Fucker
-    6. Port-Scanner                 | 12. Reverse-Shell 
+    1. Otp Bypsss                   | 7. TOKENS  
+    2. 2fa ig bypass                | 8. MASS BANNING
+    3. Qr grab                      | 9. TOKEN GRABBER
+    4. Api Down                     | 10. COOKIE GRABBER
+    5. Info leaker                  | 11. IG KEY GRABBER
+    6. Link grabber                 | 12. Phone Grabber
+    
+    - Note -: Pvt tool ask key from attaker Developer !
+    
     ――――――――――――――――――――――――――――――――――――――――――――――――――――――――
     """)
 
